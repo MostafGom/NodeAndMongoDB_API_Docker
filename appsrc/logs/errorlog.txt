@@ -1,0 +1,145 @@
+20231202	13:14:37	03975112-72c2-410a-be65-ef937a92dce2	Error: Not Allowed by CORS
+20231202	13:14:37	d49777b3-2269-44c6-ac05-22a908ad3ec5	Error: Not Allowed by CORS
+20231202	14:49:55	dbd5f2af-cd0c-4fda-8adc-00f77207e884	RangeError: Invalid status code: IncomingMessage {
+  _readableState: [ReadableState],
+  _events: [Object: null prototype] {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  socket: [Socket],
+  httpVersionMajor: 1,
+  httpVersionMinor: 1,
+  httpVersion: '1.1',
+  complete: true,
+  rawHeaders: [Array],
+  rawTrailers: [],
+  joinDuplicateHeaders: null,
+  aborted: false,
+  upgrade: false,
+  url: '/dwdw.html',
+  method: 'GET',
+  statusCode: null,
+  statusMessage: null,
+  client: [Socket],
+  _consuming: false,
+  _dumped: false,
+  next: [Function: next],
+  baseUrl: '',
+  originalUrl: '/dwdw.html',
+  _parsedUrl: [Url],
+  params: [Object],
+  query: {},
+  res: [ServerResponse],
+  body: {},
+  _parsedOriginalUrl: [Url],
+  route: [Route],
+  [Symbol(kCapture)]: false,
+  [Symbol(kHeaders)]: [Object],
+  [Symbol(kHeadersCount)]: 26,
+  [Symbol(kTrailers)]: null,
+  [Symbol(kTrailersCount)]: 0
+}
+20231202	15:05:37	5fc3e7d8-c4e8-47fe-9a9f-bae2783e1477	Error: ENOENT: no such file or directory, stat '/usr/src/app/routeTemp/views/index.html'
+20231203	11:33:16	536efa26-b978-4be9-8ede-ecd194fcea28	MongoParseError: authMechanism one of MONGODB-AWS,MONGODB-CR,DEFAULT,GSSAPI,PLAIN,SCRAM-SHA-1,SCRAM-SHA-256,MONGODB-X509,MONGODB-OIDC, got DEFAULT/test
+20231203	11:36:09	dd294107-f4d1-4720-a37f-9acd05d44a44	MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+20231203	12:58:51	8b7a327b-bfa6-41f2-a768-2c56d84967b1	ReferenceError: mongoConn is not defined
+20231203	12:59:00	97339c5b-d611-45a8-8217-4d2f8227807e	ReferenceError: mongoConn is not defined
+20231203	12:59:37	653007c7-3ecc-45bc-9a3c-599f460318d6	MongoServerError: Authentication failed.
+20231203	13:00:04	f0560df9-4a4e-4411-94c2-fc61bc0293cd	MongoServerError: Authentication failed.
+20231203	13:00:12	613d4f34-fbce-4f00-8126-9c0271614e2c	MongoServerError: Authentication failed.
+20231207	00:59:55	1fcbfb94-437d-46fb-a771-ff4c7cb2fe5d	BadRequestError: Invalid Data
+20231207	01:00:52	523a8323-aa81-48ec-b5ef-2faf7db5ebae	BadRequestError: Invalid Data
+20231207	01:00:52	0f10f724-6ef1-4ca7-bec9-96ef7dbb8245	Error : data and salt arguments required
+20231207	01:03:04	ff4bbc81-8bca-440c-bd1b-50bc2490accb	BadRequestError: Invalid Data
+20231207	01:03:04	2fd20b33-a396-4ece-a0c9-b1f9dd8379fc	Error : data and salt arguments required
+20231207	01:03:44	2b5075d8-119e-4c32-8f59-9d0ffad29871	BadRequestError: Invalid Data
+20231207	01:03:44	767924ad-a1df-4ea6-801e-fff9de81dc17	Error : data and salt arguments required
+20231207	01:04:46	dab61926-5c21-4e53-9523-1d58e0548c3a	BadRequestError: Invalid Data
+20231207	01:04:46	b31ffdb5-9df3-4172-950a-f90e67ec2f18	Error : data and salt arguments required
+20231207	01:06:35	8869751b-23fe-4b09-a470-5559f7311a74	BadRequestError: Invalid Data
+20231207	01:07:19	dde129cc-7d0b-4229-a8cc-a84b5269fa7e	BadRequestError: Invalid Data
+20231207	01:08:30	a7fba86b-a406-4135-a31a-f3ef1aad7fde	BadRequestError: Invalid Data
+20231207	01:09:46	9eeba241-c54c-4b8c-a7d6-23eb53362c73	BadRequestError: Invalid Data
+20231207	01:10:52	ef84edcf-f556-4ed4-9a18-4e1e56a4b188	BadRequestError: "firstname" length must be at least 3 characters long
+20231207	01:11:18	e940ebee-3b70-469d-83ea-aa594857b51f	BadRequestError: "firstname" length must be at least 3 characters long
+20231207	01:13:24	16422497-c838-4ccb-a250-065c75edcab0	BadRequestError: "firstname" length must be at least 3 characters long
+20231207	01:18:38	d6e4317b-42bd-4937-b1eb-58ea8bb30e17	BadRequestError: Invalid Data
+20231207	01:20:12	308c398c-0cbc-4a9d-885d-34fe8ff0642c	BadRequestError: Invalid Data
+20231207	01:20:30	8e23988f-4ee9-49df-8f22-0e8ef04e3829	BadRequestError: Invalid Data
+20231207	01:20:56	874618e0-523c-42f6-863d-1b61a9d6bab7	SyntaxError: Expected double-quoted property name in JSON at position 150
+20231207	01:21:27	b292db3f-1a46-484b-b530-f43883abcc25	SyntaxError: Expected double-quoted property name in JSON at position 150
+20231207	01:21:53	888960f4-0445-48b2-a458-2ba28feddbe1	BadRequestError: Invalid Data
+20231207	01:22:17	3ab0c051-1159-4340-84f2-128003296540	BadRequestError: Invalid Data
+20231207	01:22:41	b32db334-9341-4f21-96fb-8c121d5c9cde	ValidationError : User validation failed: role: Path `role` is required., name: Path `name` is required.
+20231207	01:22:43	87d8f1dd-f3e6-40b9-96a8-f3a5455ca950	ValidationError : User validation failed: role: Path `role` is required., name: Path `name` is required.
+20231207	01:22:48	5634ed13-7bbf-43ee-812c-307ae155608d	ValidationError : User validation failed: role: Path `role` is required., name: Path `name` is required.
+20231207	01:23:49	a61ec789-dcc9-4832-bb2b-7f754222a18a	ValidationError : User validation failed: name: Path `name` is required.
+20231207	20:22:54	e2fe8eba-36af-411a-9e9c-1e8bfd050150	SyntaxError: Expected double-quoted property name in JSON at position 69
+20231207	20:30:09	389d44eb-6231-4ddf-a308-4fff7bb74a61	BadRequestError: Email Already Registered
+20231207	20:57:12	1bff5e15-6d7b-4a32-8f4d-f203e90521ab	Error : "aud" is not allowed in "options"
+20231207	20:58:40	042025f8-b197-4ddf-be52-b6d7fbb32d7d	Error : "audience" must be a string or array
+20231207	23:37:43	2f72452c-bf86-4866-bb09-b5c731916399	BadRequestError:Invalid Data
+20231207	23:39:30	d1517d21-1c7a-4e95-a75d-9a3425e1817b	UnauthorizedError:Unauthorized user does not exist
+20231207	23:40:33	1d0a7f11-d841-4cec-86a2-9e96c1ec5f46	UnauthorizedError:Unauthorized user does not exist
+20231207	23:42:36	a95ce61f-7926-482d-886d-3828b74ab5a6	UnauthorizedError:Unauthorized user does not exist
+20231207	23:42:52	747c20f2-5988-4409-8e38-d8c592fc8ddc	BadRequestError:Invalid Data
+20231208	15:44:36	d099d768-80a0-4875-a6d7-7714ae77e766	InternalServerError:Internal Server Error
+20231208	15:47:06	18e8ba31-bf0a-4ff9-ae98-4eeb7418184b	UnauthorizedError:Unauthorized user does not exist
+20231208	15:47:12	ebbd34bb-bf23-4310-bf4d-4fb269c65166	InternalServerError:Internal Server Error
+20231208	15:47:38	59628704-93d4-4300-aff5-9a8e23918291	InternalServerError:Internal Server Error
+20231208	15:48:00	de7c6d61-5aee-46c6-9aee-41280dce85a3	InternalServerError:Internal Server Error
+20231208	15:48:17	38f66241-4562-4f7a-af3a-4d20dff251ce	InternalServerError:Internal Server Error
+20231208	15:50:23	299d139a-df72-4db9-bc67-69aab3148574	InternalServerError:Internal Server Error
+20231208	15:51:10	680a88bb-7f5a-4f35-a62c-010a7672f116	InternalServerError:Internal Server Error
+20231208	15:52:29	5ef447b8-dab9-4715-994e-1abf5f3c906e	InternalServerError:Internal Server Error
+20231208	15:52:49	4c657e58-16b3-47d2-92d8-1fb7155ce7dc	InternalServerError:Internal Server Error
+20231208	15:53:30	8a6fcfdb-9198-4c60-bb1f-b7e658702b33	InternalServerError:Internal Server Error
+20231208	15:55:22	04d5b0b1-67da-4b59-a066-6ae6aabf68e6	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	15:56:29	116f2193-04c9-4e4c-98e9-45f0b4ac2653	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	15:57:13	b2053280-212c-4605-91e4-c4b01ee344ea	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	15:57:50	827f4c56-f00e-448e-b9d2-39161058654c	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	15:57:56	ce1122b6-1145-454e-8ade-036b12b2efbe	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	15:58:37	7dc989c3-4b74-4367-87ab-50bd1c97d7a3	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	15:58:54	4767737b-da41-4099-a642-0889a4d35aa3	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	16:14:01	e3d2ef3d-4e15-4704-ac1e-21217f18be09	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	16:15:20	539e3a42-3058-45d5-a303-4d7c332a6a27	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	16:15:41	e5f64237-a035-49c6-9eab-790272d9f737	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	16:16:01	949b5a32-1c66-4a8f-833b-d59672d6213e	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	16:17:10	9c1f9b1c-d5ee-4c26-8100-5e9b6cd535b2	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	16:17:49	7f110f93-a86a-4894-b089-5addcef5bd4a	TypeError:Cannot read properties of undefined (reading 'authorization')
+20231208	16:19:01	4967ca60-9839-4747-9551-36faec4b55a2	TypeError:Cannot read properties of undefined (reading 'jwt')
+20231208	16:20:17	b22b16a8-e753-43b9-9122-7090bf5278e2	UnauthorizedError:Unauthorized
+20231208	16:56:00	294beaa5-93e2-449b-8be2-09cb8e71c120	UnauthorizedError:Unauthorized
+20231208	16:59:35	6e082a20-d6a7-4b36-b5b3-afdebcd474a1	UnauthorizedError:Unauthorized
+20231208	16:59:36	498081a7-373a-4766-a37e-7c4bb500393e	UnauthorizedError:Unauthorized
+20231208	17:00:24	d353dc3c-380f-455a-8853-af72da5c987b	UnauthorizedError:Unauthorized
+20231208	17:01:01	5bd5286a-2c8b-45af-a00a-35e8a1fef9f7	UnauthorizedError:Unauthorized
+20231208	17:01:25	420bc719-3f2b-4dee-96ef-aafbe5e81af9	UnauthorizedError:Unauthorized
+20231208	17:03:12	739737da-ca97-4ac1-8735-444e91af7099	UnauthorizedError:Unauthorized user does not exist
+20231208	17:03:27	493c4aec-099a-4e11-9c9b-694a37948011	UnauthorizedError:Unauthorized
+20231208	17:31:59	6b1fdb07-4df9-4e88-8846-09ff683fe1ae	UnauthorizedError:Unauthorized
+20231208	17:33:21	fe0b1c92-d196-4428-a1fb-4ce7fd1179de	UnauthorizedError:Unauthorized
+20231208	17:33:27	680a0679-ed88-4fd6-b60d-43005553649c	UnauthorizedError:Unauthorized
+20231208	17:37:07	ef6e550a-0bbc-4c39-993c-8ac830becb14	UnauthorizedError:Unauthorized
+20231208	17:37:48	333337cc-2c65-46ee-9a7c-7b08c3c17a03	UnauthorizedError:Unauthorized
+20231208	17:39:25	279c4041-80dd-4718-bf56-4b00fb99ccdb	Error:Not Allowed by CORS
+20231208	17:43:43	ff4ca7d7-1305-45e4-ab00-9d8204147374	UnauthorizedError:Unauthorized user does not exist
+20231208	17:43:47	06ab2cfd-5da8-4dc7-a45a-d693572583c8	BadRequestError:Invalid Data
+20231208	17:43:55	ae75a081-d7bc-4006-af50-2dccb2cc7034	UnauthorizedError:Unauthorized
+20231208	17:47:32	ca0572c8-a021-4b2f-9ba0-df357a942942	UnauthorizedError:Unauthorized
+20231208	17:47:50	d521882e-f5ab-490f-afa3-1f7007e4e670	UnauthorizedError:Unauthorized
+20231208	17:47:51	4473d463-24cf-46e0-941f-44f1b2f6a587	UnauthorizedError:Unauthorized
+20231208	17:47:53	41e6ebe9-9b63-4682-879a-ca4e116a6ef6	UnauthorizedError:Unauthorized
+20231208	17:48:05	a39573e1-1d8b-4379-b452-c6ba1be4f5f7	UnauthorizedError:Unauthorized
+20231208	17:48:29	dc71a28e-5a5c-4354-981f-351e90a2fb7e	UnauthorizedError:Unauthorized
+20231208	17:49:52	103e8cec-79a8-491b-82f4-ab6f997c6e50	UnauthorizedError:Unauthorized
+20231208	17:58:57	3abc7904-9663-4942-aa99-1075e15d370a	BadRequestError:Invalid Data
+20231208	17:59:25	75c921a8-8bb6-4d01-9ea7-b60ab3eb17d0	UnauthorizedError:Unauthorized
+20231208	18:32:51	d2ddd12f-8839-481d-82ee-29657d841d19	UnauthorizedError:Unauthorized
+20231208	18:33:14	6a6e6523-690e-406f-81e8-83bc4bb88296	UnauthorizedError:Unauthorized
+20231208	18:34:36	f4000005-9617-424d-8ee3-a6cc076fa414	UnauthorizedError:Unauthorized user does not exist
+20231208	18:34:45	a9ef8710-f98c-4053-853a-a56241d52a98	UnauthorizedError:Unauthorized user does not exist
+20231208	18:35:56	03deedfe-384c-40a7-993b-8dc7cec75fc2	UnauthorizedError:Unauthorized user does not exist
+20231208	19:37:06	59622b20-13dd-4da6-bba0-afbd5a8eb82f	BadRequestError:Email Already Registered
+20231208	19:38:47	b84e2de9-a16f-4141-a54b-df6faabccec4	UnauthorizedError:Unauthorized
+20231208	19:39:29	d636dd66-232f-4131-b756-94a0dea5d188	UnauthorizedError:Unauthorized
+20231208	19:40:10	a61e6715-7586-4100-9b83-4209c1bc1d34	UnauthorizedError:Unauthorized
