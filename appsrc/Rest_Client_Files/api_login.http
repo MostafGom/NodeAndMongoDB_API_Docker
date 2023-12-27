@@ -1,0 +1,37 @@
+###
+POST http://localhost:3000/auth HTTP/1.1
+content-type: application/json
+
+{
+    "email": "test@tes.",
+    "password": "fded34534fwfewrfwe"
+}
+###
+
+###
+POST http://localhost:3000/auth HTTP/1.1
+content-type: application/json
+
+{
+    "email": "st@te.com",
+    "password": "fded34534fwfewrfwe"
+}
+###
+
+
+###
+POST http://localhost:3000/auth HTTP/1.1
+content-type: application/json
+
+{
+    "email": "test@tes.com",
+    "password": "fded34534fwfewrfwe"
+}
+###
+
+
+###
+GET http://localhost:3000/auth/refresh HTTP/1.1
+content-type: application/json
+
+###
